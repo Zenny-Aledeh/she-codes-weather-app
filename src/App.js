@@ -1,10 +1,11 @@
 import "./App.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Zenny's Weather App</h1>
+        <Weather />
         <footer>
           This projected is created by Zeinab Abu and is{" "}
           <a
