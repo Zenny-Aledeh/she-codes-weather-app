@@ -1,8 +1,16 @@
+body {
+  background: #ffd89b;
+  background: -webkit-linear-gradient(to right, #19547b, #ffd89b);
+  background: linear-gradient(to right, #19547b, #ffd89b);
+}
+
 .Weather {
   border: 1px solid grey;
   font-family: Arial, Helvetica, sans-serif;
   padding: 16px;
   border-radius: 4px;
+  background-color: #ecf6f6;
+  border-color: #ecf6f6;
 }
 
 .Weather h1 {
