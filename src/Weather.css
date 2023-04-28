@@ -52,3 +52,7 @@ body {
   top: -34px;
   margin-left: 5px;
 }
+
+.WeatherInfo {
+  margin-bottom: 25px;
+}
