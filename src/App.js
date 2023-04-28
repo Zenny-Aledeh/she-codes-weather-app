@@ -11,7 +11,7 @@ export default function App() {
           <a
             href="https://github.com/Zenny-Aledeh/she-codes-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel=" noopener noreferrer"
           >
             open sourced on Github
           </a>
